@@ -1,3 +1,4 @@
 # ignore the entire chroma_db folder
 chroma_db/
 /.env
+venv/
