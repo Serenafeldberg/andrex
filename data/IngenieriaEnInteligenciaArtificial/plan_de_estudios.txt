@@ -1,0 +1,151 @@
+• Inicio
+• /Ingeniería en Inteligencia Artificial
+• /Plan de Estudios
+# Plan de Estudios
+El plan de estudios de la carrera de Ingeniería en Inteligencia Artificial es único en la Argentina y en la región. Una propuesta integral, interdisciplinaria e innovadora para formar profesionales disruptivos y en sintonía con las nuevas tendencias.
+
+### 1° año
+#### 1° Semestre
+- Álgebra Lineal
+- Análisis Matemático I
+- Pensamiento Computacional (*PF)
+- Electiva de Arte
+
+#### 2° Semestre
+- Análisis Matemático II
+- Matemática Discreta
+- Algoritmos y Estructuras de Datos
+- Electiva de Ciencias
+
+### 2° año
+#### 1° Semestre
+- Fundamentos de la Probabilidad y Estadística
+- Paradigmas de Programación
+- Física I
+- Economía I
+
+#### 2° Semestre
+- Fundamentos de la Inteligencia Artificial
+- Inferencia y Estimación
+- Análisis Matemático III
+- Métodos Numéricos y Optimización
+
+### 3° año
+#### 1° Semestre
+- Aprendizaje Automático y Aprendizaje Profundo (*PF)
+- Arquitectura de Computadoras y Sistemas Operativos
+- Electiva de Filosofía
+- Física II
+
+#### 2° Semestre
+- Visión Artificial (*PF)
+- Redes y Comunicación
+- Bases de Datos
+- Dinámica de Sistemas
+
+### 4° año
+#### 1° Semestre
+- Procesamiento de Lenguaje Natural (*PF)
+- Principios de la Robótica Autónoma (*PF)
+- Ingeniería de Software (*PF)
+- Electiva de Historia
+
+#### 2° Semestre
+- Aprendizaje Reforzado (*PF)
+- Criptografía y Ciberseguridad
+- Materia Optativa I
+- Materia Optativa II
+- Escritura y Oratoria
+
+### 5° año
+#### 1° Semestre
+- Materia Optativa III
+- Materia Optativa IV
+- Ética de la Inteligencia Artificial
+- Taller de Proyecto Final
+- Entrepreneurship
+
+#### 2° Semestre
+- Materia Optativa V
+- Materia Optativa VI
+- Trabajo de Graduación (Proyecto Final)
+- Práctica Profesional Supervisada
+
+###Referencias 
+(*PF): Estas materias tienen proyecto final de curso, en lugar de examen final.
+
+### Ciclo de Fundamentos
+
+Su propósito es brindar al estudiante una formación integral y amplia, incorporando al plan de estudios materias de otras disciplinas para desarrollar una visión interdisciplinaria de las diversas problemáticas.
+Las materias que forman parte de este ciclo son:
+- Electiva de Arte
+- Electiva de Ciencias
+- Economía I
+- Electiva de Filosofía
+- Electiva de Historia
+- Escritura y Oratoria
+
+### Ciclo de orientación - Inteligencia Artificial
+
+Aprenderás de manera profunda cómo diseñar e implementar modelos, algoritmos y sistemas de Inteligencia Artificial, lo que te brindará un perfil profesional único.
+Las materias que forman parte de este ciclo son:
+- Fundamentos de la Inteligencia Artificial
+- Inferencia y Estimación
+- Aprendizaje Automático y Aprendizaje Profundo (*PF)
+- Visión Artificial (*PF)
+- Dinámica de Sistemas
+- Procesamiento de Lenguaje Natural (*PF)
+- Principios de la Robótica Autónoma (*PF)
+- Aprendizaje Reforzado (*PF)
+- Ética de la Inteligencia Artificial
+
+### Ciclo de orientación - Programación y Computación
+
+A la base matemática se le suma una formación sólida en programación y computación, que te capacita para diseñar e implementar software de altísima calidad.
+Las materias que forman parte de este ciclo son:
+- Pensamiento Computacional (*PF)
+- Algoritmos y Estructuras de Datos
+- Paradigmas de Programación
+- Métodos Numéricos y Optimización
+- Arquitectura de Computadoras y Sistemas Operativos
+- Redes y Comunicación
+- Bases de Datos
+- Ingeniería de Software (*PF)
+- Criptografía y Ciberseguridad
+
+### Ciclo de orientación - Matemática y Ciencias Básicas
+
+La carrera comienza con una sólida base de matemática, probabilidad y estadística que brinda el sustento teórico a los modelos y algoritmos de IA, y entrena tu capacidad de pensamiento abstracto y analítico, esenciales para la resolución de problemas complejos.
+Las materias que forman parte de este ciclo son:
+- Álgebra Lineal
+- Análisis Matemático I
+- Análisis Matemático II
+- Matemática Discreta
+- Fundamentos de la Probabilidad y Estadística
+- Física I
+- Análisis Matemático III
+- Física II
+
+### Ciclo de orientación - Proyecto Final y Práctica Profesional
+
+A través del Proyecto Final aplicarás todos los conocimientos aprendidos. Además, para graduarte, deberás realizar una Práctica Profesional en la cual tendrás la oportunidad de trabajar con profesionales de las mejores empresas de tecnología.
+Las materias que forman parte de este ciclo son:
+- Taller de Proyecto Final
+- Entrepreneurship
+- Trabajo de Graduación (Proyecto Final)
+- Práctica Profesional Supervisada
+
+### Materias optativas
+
+Tendrás que elegir seis materias optativas dictadas por el Departamento de Ingeniería u otros departamentos de la Universidad, o bien tomar cursos en instituciones de enseñanza superior del extranjero a través de un programa de intercambio.
+Podrás obtener un certificado de especialización en una de las tres orientaciones:Software, Robótica o Negocios.
+### Aprendizaje Basado en Proyectos
+
+A medida que avances en la carrera, tendrás un número creciente de materias con proyecto final de curso en lugar de un examen final. A través de dichos proyectos podrás poner en práctica los conocimientos aprendidos, desarrollarás tus habilidades creativas, interpersonales y de liderazgo, claves para tu éxito profesional.
+### Requisito de graduación
+
+Aprobación del trabajo de graduación.
+## Descargá el Plan de Estudios
+
+A través del buscador de materias, podrás obtener un detalle del programa de cada materia.
+Este sitio utilizaCookies

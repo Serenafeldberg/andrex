@@ -1,0 +1,219 @@
+[
+    {
+        "Evento": "Acto de apertura",
+        "Tipo": "inicio",
+        "Fecha Inicio": "2025-02-21 00:00:00",
+        "Fecha Fin": "2025-02-21 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Comienzo del semestre adadémico",
+        "Tipo": "inicio",
+        "Fecha Inicio": "2025-02-24 00:00:00",
+        "Fecha Fin": "2025-02-24 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-03-03 00:00:00",
+        "Fecha Fin": "2025-03-04 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Vence el plazo para agregar o abandonar materias",
+        "Tipo": "plazo",
+        "Fecha Inicio": "2025-03-14 00:00:00",
+        "Fecha Fin": "2025-03-14 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-03-24 00:00:00",
+        "Fecha Fin": "2025-03-24 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-04-02 00:00:00",
+        "Fecha Fin": "2025-04-02 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Último día para dar de baja un curso por Gestión",
+        "Tipo": "plazo",
+        "Fecha Inicio": "2025-04-16 00:00:00",
+        "Fecha Fin": "2025-04-16 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado puente",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-04-17 00:00:00",
+        "Fecha Fin": "2025-04-17 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-04-18 00:00:00",
+        "Fecha Fin": "2025-04-18 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Período de examenes parciales",
+        "Tipo": "parciales",
+        "Fecha Inicio": "2025-04-19 00:00:00",
+        "Fecha Fin": "2025-05-03 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-05-01 00:00:00",
+        "Fecha Fin": "2025-05-01 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado trasladable",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-05-25 00:00:00",
+        "Fecha Fin": "2025-05-25 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado trasladable",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-06-16 00:00:00",
+        "Fecha Fin": "2025-06-16 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-06-20 00:00:00",
+        "Fecha Fin": "2025-06-20 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Período de examenes finales",
+        "Tipo": "finales",
+        "Fecha Inicio": "2025-06-21 00:00:00",
+        "Fecha Fin": "2025-07-05 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Recuperatorios y entrega de notas",
+        "Tipo": "recuperatorios",
+        "Fecha Inicio": "2025-07-07 00:00:00",
+        "Fecha Fin": "2025-07-12 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-07-09 00:00:00",
+        "Fecha Fin": "2025-07-09 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Vacaciones de invierno",
+        "Tipo": "vacaciones",
+        "Fecha Inicio": "2025-07-14 00:00:00",
+        "Fecha Fin": "2025-08-03 00:00:00",
+        "Semestre": 1
+    },
+    {
+        "Evento": "Comienzo del semestre adadémico",
+        "Tipo": "inicio",
+        "Fecha Inicio": "2025-08-04 00:00:00",
+        "Fecha Fin": "2025-08-04 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado puente",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-08-15 00:00:00",
+        "Fecha Fin": "2025-08-15 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado trasladable",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-08-17 00:00:00",
+        "Fecha Fin": "2025-08-17 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Vence el plazo para agregar o abandonar materias",
+        "Tipo": "plazo",
+        "Fecha Inicio": "2025-08-22 00:00:00",
+        "Fecha Fin": "2025-08-22 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Último día para dar de baja un curso por Gestión",
+        "Tipo": "plazo",
+        "Fecha Inicio": "2025-09-26 00:00:00",
+        "Fecha Fin": "2025-09-26 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Período de examenes parciales",
+        "Tipo": "parciales",
+        "Fecha Inicio": "2025-09-27 00:00:00",
+        "Fecha Fin": "2025-10-11 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado trasladable",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-10-12 00:00:00",
+        "Fecha Fin": "2025-10-12 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado puente",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-11-21 00:00:00",
+        "Fecha Fin": "2025-11-21 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado trasladable",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-11-24 00:00:00",
+        "Fecha Fin": "2025-11-24 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Período de examenes finales",
+        "Tipo": "finales",
+        "Fecha Inicio": "2025-11-29 00:00:00",
+        "Fecha Fin": "2025-12-13 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-12-08 00:00:00",
+        "Fecha Fin": "2025-12-08 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Recuperatorios y entrega de notas",
+        "Tipo": "recuperatorios",
+        "Fecha Inicio": "2025-12-15 00:00:00",
+        "Fecha Fin": "2025-12-20 00:00:00",
+        "Semestre": 2
+    },
+    {
+        "Evento": "Feriado nacional",
+        "Tipo": "feriado",
+        "Fecha Inicio": "2025-12-25 00:00:00",
+        "Fecha Fin": "2025-12-25 00:00:00",
+        "Semestre": 2
+    }
+]
