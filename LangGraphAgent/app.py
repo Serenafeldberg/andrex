@@ -57,4 +57,4 @@ def telegram_webhook():
 
 if __name__ == '__main__':
     # Ejecuta en el puerto 5000 de tu localhost
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=8000, debug=True)
